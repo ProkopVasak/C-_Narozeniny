@@ -1,0 +1,15 @@
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\bin\Debug\net6.0\narozeniny.exe
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\bin\Debug\net6.0\narozeniny.deps.json
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\bin\Debug\net6.0\narozeniny.runtimeconfig.json
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\bin\Debug\net6.0\narozeniny.dll
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\bin\Debug\net6.0\narozeniny.pdb
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\obj\Debug\net6.0\narozeniny.csproj.AssemblyReference.cache
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\obj\Debug\net6.0\narozeniny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\obj\Debug\net6.0\narozeniny.AssemblyInfoInputs.cache
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\obj\Debug\net6.0\narozeniny.AssemblyInfo.cs
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\obj\Debug\net6.0\narozeniny.csproj.CoreCompileInputs.cache
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\obj\Debug\net6.0\narozeniny.dll
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\obj\Debug\net6.0\refint\narozeniny.dll
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\obj\Debug\net6.0\narozeniny.pdb
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\obj\Debug\net6.0\narozeniny.genruntimeconfig.cache
+C:\Users\Mizej\source\repos\narozeniny\narozeniny\obj\Debug\net6.0\ref\narozeniny.dll
